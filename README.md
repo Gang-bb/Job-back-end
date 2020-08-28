@@ -1,7 +1,7 @@
 # Job-back-end
-用flask写的Job-MiniProgram的后端API
+用flask写的Job-MiniProgram和Job-enterprise的后端API
 
-### 欢迎交流：QQ:949526365
+### :jack_o_lantern: 欢迎交流：QQ:949526365
 
 
 ### 开始项目
