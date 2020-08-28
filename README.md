@@ -6,8 +6,9 @@
 
 ### 开始项目
 
-1. git clone https://github.com/Gang-bb/Job-back-end.git
-
+1. ```
+   git clone https://github.com/Gang-bb/Job-back-end.git
+   ```
 2. 在Job-back-end/config/local_setting.py修改本地数据库配置
 
 3. 在Job-back-end目录下
