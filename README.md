@@ -14,7 +14,7 @@
 3. 在Job-back-end目录下
 
    ```
-   python manage.py upgrade
+   python manage.py db upgrade
    ```
 
 4. 需要数据库数据的可以导入 数据库数据 文件夹中的 job.sql
